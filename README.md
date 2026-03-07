@@ -140,4 +140,4 @@ Feel free to fork and improve it.
 
 ---
 
-### 🔥 Happy Coding!
+### 🔥 Happy Coding
