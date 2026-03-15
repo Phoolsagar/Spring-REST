@@ -5,7 +5,7 @@ Each folder represents a separate example covering different REST concepts.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
 ```
 REST_API_Ex-1
